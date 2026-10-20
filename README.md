@@ -1,7 +1,6 @@
 # Real-Time Coaching Center QR Check-In & Analytics Dashboard
 A lightweight, cost-effective portfolio project simulating a real-time IoT/QR code check-in and check-out system for coaching centers, built using **Python**, **CSV data logging**, and **Power BI**.
 
----
 
 ## 🏗️ Architecture & Design
 Because enterprise cloud gateways (like Power Apps or Azure) often require paid licenses, this project implements a **local simulation pipeline** to mimic a real-time environment:
